@@ -1,4 +1,3 @@
-
 public class TimePeriod {
 
 	private int hours;
